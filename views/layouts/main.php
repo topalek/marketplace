@@ -28,7 +28,7 @@ AppAsset::register($this);
 
 <div class="wrap">
 <!--    --><?php //require (__DIR__.'/_header.php'); ?>
-    <?php
+    <?phpgit
     NavBar::begin([
         'brandLabel' => 'My Company',
         'brandUrl' => Yii::$app->homeUrl,
